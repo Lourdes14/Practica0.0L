@@ -12,6 +12,8 @@ namespace PracticaLS
         {
             Console.WriteLine("Lourdes Santos");
             Console.WriteLine("4to Baco");
+            
+            Console.Readkey();
         }
     }
 }
